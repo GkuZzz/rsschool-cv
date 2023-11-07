@@ -40,7 +40,6 @@ Then, in order to structure my knowledge, I have taken a RSSchool course, where 
 2. Udemi "JavaScript and React"
 3. RedCamp «Base of project management» 2022.
 
-
 ***
 
 ## Code example:
@@ -77,7 +76,6 @@ Function from my pet project:
 
   list.innerHTML = html;
 };
-
 ```
 
 ***
